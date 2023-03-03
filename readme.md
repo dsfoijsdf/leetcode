@@ -13,5 +13,5 @@
 |[114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)|[![Website](https://img.shields.io/website?label=&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=medium)]()|tree, 分治| 🔶|
 |[116 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)|[![Website](https://img.shields.io/website?label=&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=medium)]()|tree, 分治| 🔶|
 |[117 填充每个节点的下一个右侧节点指针Ⅱ](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)|[![Website](https://img.shields.io/website?label=&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=medium)]()|tree, bfs| |
-|单词接龙](https://leetcode.cn/problems/word-ladder-ii/)|[![Website](https://img.shields.io/website?label=&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=hard)]()|dfs, bfs| 🔶|
+|[单词接龙](https://leetcode.cn/problems/word-ladder-ii/)|[![Website](https://img.shields.io/website?label=&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=hard)]()|dfs, bfs| 🔶|
 
